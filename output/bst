@@ -1,0 +1,11 @@
+// Visualización del Árbol
+digraph {
+	node [fillcolor=skyblue shape=circle style=filled]
+	1872391457232 [label=23]
+	1872391457232 -> 1872384298000
+	1872384298000 [label=14]
+	1872391457232 -> 1872392083920
+	1872392083920 [label=34]
+	1872392083920 -> 1872384300880
+	1872384300880 [label=32]
+}
